@@ -9,4 +9,9 @@ public class HomeTest
 	{
 		System.out.println("execut HomeTest");
 	}
+  @Test
+  public void HomeTest(String ele,int ee)
+  {
+	  System.out.println("execute ele");
+  }
 }
