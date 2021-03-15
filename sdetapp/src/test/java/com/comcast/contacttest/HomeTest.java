@@ -9,8 +9,15 @@ public class HomeTest
 	{
 		System.out.println("execut HomeTest");
 	}
+
   public void HomeTest(String ele1,String ele2, int a)
 	{
 		System.out.println("execut Update HomeTest");
 	}
+  @Test
+  public void HomeTest(String ele,int ee)
+  {
+	  System.out.println("execute ele");
+  }
+
 }
